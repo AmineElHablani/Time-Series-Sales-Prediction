@@ -10,3 +10,6 @@ This project focuses on forecasting sales for a superstore using various time se
 - **OOP Optimization:** Code optimization through OOP principles to automate and streamline the forecasting process.
 - **Custom Auto ARIMA Function:** Development of a custom function that automates ARIMA and SARIMA training, yielding better results than standard autoARIMA.
 - **Custom Auto ARIMA Function:** Development of a custom function that automates the training of multiple ARIMA and SARIMA models. This function automatically checks for ACF and PACF, determines seasonality and stationarity, and differentiates the data if necessary (in case of non-stationarity). It has returned better results than the standard autoARIMA function.
+
+
+### NB: If there is a problem with visualization, you can view the notebook on https://nbviewer.org/ by copying the link of the notebook there.
